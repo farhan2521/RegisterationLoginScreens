@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ZetampTask1</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="register">Register</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="click_here_to_login">Click here to Login</string>
+    <string name="enter_email_id">Enter Email Id</string>
+    <string name="enter_login_password">Enter Password</string>
+    <string name="login">Login</string>
+</resources>
