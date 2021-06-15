@@ -47,7 +47,7 @@ public class MainActivity extends AppCompatActivity {
                     //put the data into db
                     //dao.createRow(name, email, password);
                     if(password.equals(confirmPassword)) {
-                        Boolean isEmailExist = dao.checkEmailExist(email);
+                        boolean isEmailExist = dao.checkEmailExist(email);
                         if (isEmailExist) {
                             Toast.makeText(MainActivity.this, "Email Id already exists", Toast.LENGTH_LONG).show();
                         } else {
